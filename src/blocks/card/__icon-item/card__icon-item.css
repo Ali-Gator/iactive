@@ -1,0 +1,15 @@
+.card__icon-item {
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.card__icon-item:hover {
+    box-shadow: 0px 0px 1px 1px #0088EE;
+}
+
+.card__icon-item:active {
+    transform: scale(0.9);
+}

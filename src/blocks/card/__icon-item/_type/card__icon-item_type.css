@@ -1,0 +1,19 @@
+.card__icon-item_type_send {
+    background-image: url('../../../../images/send.svg');
+}
+
+.card__icon-item_type_hide {
+    background-image: url('../../../../images/window.svg');
+}
+
+.card__icon-item_type_param {
+    background-image: url('../../../../images/parametr.svg');
+}
+
+.card__icon-item_type_favorite {
+    background-image: url('../../../../images/star_gray.svg');
+}
+
+.card__icon-item_type_favorite-active {
+    background-image: url('../../../../images/star_blue.svg');
+}

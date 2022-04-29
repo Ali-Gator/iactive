@@ -1,0 +1,8 @@
+.card__buttons {
+    margin: 0 -10px 0 0;
+    padding: 0;
+    list-style: none;
+    align-self: center;
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,5 @@
+.card__text {
+    margin: 0 20px 0 0;
+    grid-column: 2 / 5;
+    letter-spacing: -0.035em;
+}

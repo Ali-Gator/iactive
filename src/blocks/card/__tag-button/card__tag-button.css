@@ -1,0 +1,15 @@
+.card__tag-button {
+    border: none;
+    background-color: transparent;
+    font-size: 12px;
+    color: #CDCDCD;
+    cursor: pointer;
+}
+
+.card__tag-button:hover {
+    color: #0088EE;
+}
+
+.card__tag-button:active {
+    font-weight: bold;
+}

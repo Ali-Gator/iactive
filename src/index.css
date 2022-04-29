@@ -1,13 +1,31 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@import url(./vendor/normalize.css);
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+@import url(./blocks/page/page.css);
+
+@import url(./blocks/header/__title/header__title.css);
+
+@import url(./blocks/messages/__list/messages__list.css);
+
+@import url(./blocks/card/card.css);
+@import url(./blocks/card/__user-avatar/card__user-avatar.css);
+@import url(./blocks/card/__author/card__author.css);
+@import url(./blocks/card/__buttons/card__buttons.css);
+@import url(./blocks/card/__button/card__button.css);
+@import url(./blocks/card/__icons/card__icons.css);
+@import url(./blocks/card/__icon-item/card__icon-item.css);
+@import url(./blocks/card/__icon-item/_type/card__icon-item_type.css);
+@import url(./blocks/card/__icon-button/card__icon-button.css);
+@import url(./blocks/card/__time/card__time.css);
+@import url(./blocks/card/__text/card__text.css);
+@import url(./blocks/card/__next-button/card__next-button.css);
+@import url(./blocks/card/__picture/card__picture.css);
+@import url(./blocks/card/__tags/card__tags.css);
+@import url(./blocks/card/__tag-button/card__tag-button.css);
+@import url(./blocks/card/__tag-button/_active/card__tag-button_active.css);
+
+
+
+
+
+
+

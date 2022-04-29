@@ -1,0 +1,8 @@
+.card__tags {
+    margin: 7px 0 11px 9px;
+    padding: 0;
+    list-style: none;
+    align-self: center;
+    display: flex;
+    grid-column: 1 / 2;
+}

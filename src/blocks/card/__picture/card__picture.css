@@ -1,0 +1,6 @@
+.card__picture {
+    margin: 8px 0 0;
+    grid-column: 2 / 3;
+    width: 259px;
+    height: 146px;
+}

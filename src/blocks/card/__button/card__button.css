@@ -1,0 +1,19 @@
+.card__button {
+    margin: 0 10px 0 0;
+    padding: 8px 10px;
+    background-color: transparent;
+    border: 1px solid #0088EE;
+    border-radius: 2px;;
+    color: #0088EE;
+    font-size: 11px;
+    cursor: pointer;
+    transition: all .3s;
+}
+
+.card__button:hover {
+    box-shadow: 0px 0px 1px 1px #808080;
+}
+
+.card__button:active {
+    transform: scale(0.9);
+}

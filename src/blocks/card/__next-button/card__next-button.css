@@ -1,0 +1,21 @@
+.card__next-button {
+    width: 60px;
+    margin: 8px 0 0;
+    padding: 0;
+    grid-column: 2 / 3;
+    font-size: 12px;
+    text-align: start;
+    border: none;
+    background-color: transparent;
+    color: #808080;
+    cursor: pointer;
+    transition: all;
+}
+
+.card__next-button:hover {
+    color: #0088EE;
+}
+
+.card__next-button:active {
+    font-weight: bold;
+}
