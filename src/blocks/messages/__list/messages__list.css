@@ -1,6 +1,9 @@
 .messages__list {
     width: 886px;
     margin: 30px auto 0;
-    padding: 0;
+    padding: 5px;
     list-style: none;
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
 }
