@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/iactive/static/css/main.833cc23c.css",
-    "main.js": "/iactive/static/js/main.3a0e9611.js",
+    "main.css": "/iactive/static/css/main.126cc650.css",
+    "main.js": "/iactive/static/js/main.876f7903.js",
     "static/media/picture.png": "/iactive/static/media/picture.421ce2de3bd0a6960d2e.png",
     "static/media/send.svg": "/iactive/static/media/send.6b2fd18a439592d22cf1.svg",
     "static/media/parametr.svg": "/iactive/static/media/parametr.167deaa1bd7cfe404cc8.svg",
@@ -9,11 +9,11 @@
     "static/media/star_gray.svg": "/iactive/static/media/star_gray.01a9a4ae8183ac67a8fb.svg",
     "static/media/star_blue.svg": "/iactive/static/media/star_blue.70fda9f2064c9d8dbad9.svg",
     "static/media/window.svg": "/iactive/static/media/window.e07798e9a40efebfc383.svg",
-    "main.833cc23c.css.map": "/iactive/static/css/main.833cc23c.css.map",
-    "main.3a0e9611.js.map": "/iactive/static/js/main.3a0e9611.js.map"
+    "main.126cc650.css.map": "/iactive/static/css/main.126cc650.css.map",
+    "main.876f7903.js.map": "/iactive/static/js/main.876f7903.js.map"
   },
   "entrypoints": [
-    "static/css/main.833cc23c.css",
-    "static/js/main.3a0e9611.js"
+    "static/css/main.126cc650.css",
+    "static/js/main.876f7903.js"
   ]
 }
